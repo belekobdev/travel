@@ -558,7 +558,7 @@ body {
 }
 .photos-card   {
     width: 266px;
-    height: 446px;
+    height: 846px;
 }
 .photos-card h1 {
     font-weight: 700;
@@ -589,17 +589,17 @@ body {
     align-items: center;
     justify-content: space-between;
 }
-.photos-card .img1 {
-
-}
-.photos-card .img2 {
-    height: 67%;
-}.photos-card .img3 {
-    height: 59%;
-}
-.photos-card .img4 {
-    height: 59%;
-}
+/*.photos-card .img1 {*/
+/*    height: 200px;*/
+/*}*/
+/*.photos-card .img2 {*/
+/*    height: 67%;*/
+/*}.photos-card .img3 {*/
+/*    height: 59%;*/
+/*}*/
+/*.photos-card .img4 {*/
+/*    height: 59%;*/
+/*}*/
 .footer {
     padding-top: 100px ;
 
@@ -681,12 +681,12 @@ body {
     align-items: center;
 }
 
-.swiper-slide img {
-    display: block;
-    width: 110%;
-    height: 100%;
-    object-fit: cover;
-}
+/*.swiper-slide img {*/
+/*    display: block;*/
+/*    width: 110%;*/
+/*    height: 100%;*/
+/*    object-fit: cover;*/
+/*}*/
 
 
 .form-labell {
